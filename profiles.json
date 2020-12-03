@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "276726": {
+      "link": {
+        "2020": "https://github.com/NicoLaval/Advent-of-code-2020"
+      },
+      "language": {
+        "2020": "Javascript"
+      }
+    }
+  }
+}

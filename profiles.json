@@ -15,6 +15,14 @@
       "language": {
         "2020": "Java"
       }
+    },
+    "691513": {
+      "link": {
+        "2020": "https://github.com/Evargalo/AdventOfCode2020"
+      },
+      "language": {
+        "2020": "R"
+      }
     }
   }
 }

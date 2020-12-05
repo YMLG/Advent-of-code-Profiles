@@ -26,6 +26,15 @@
       "language": {
         "2020": "R"
       }
+    },
+    "381991": {
+      "just_to_know_id_meaning": "Laurent Caouissin",
+      "link": {
+        "2020": "https://github.com/laurentC35/AdventOfCode2020"
+      },
+      "language": {
+        "2020": "Python"
+      }
     }
   }
 }

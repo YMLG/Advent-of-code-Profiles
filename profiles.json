@@ -44,6 +44,15 @@
       "language": {
         "2020": "JavaScript"
       }
+    },
+    "23798": {
+       "just_to_know_id_meaning": "Clément Dufaure",
+      "link": {
+        "2020": "https://github.com/clement-dufaure/advent-of-code"
+      },
+      "language": {
+        "2020": "Java"
+      }
     }
   }
 }

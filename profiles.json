@@ -1,6 +1,7 @@
 {
   "profiles": {
     "276726": {
+      "just_to_know_id_meaning": "Nicolas Laval",
       "link": {
         "2020": "https://github.com/NicoLaval/Advent-of-code-2020"
       },
@@ -9,6 +10,7 @@
       }
     },
     "383855": {
+      "just_to_know_id_meaning": "Yves-Marie Le Gueut",
       "link": {
         "2020": "https://github.com/YMLG/advent-of-code"
       },

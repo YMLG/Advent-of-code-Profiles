@@ -52,6 +52,14 @@
       },
       "language": {
         "2020": "Java"
+    },
+    "698481": {
+       "just_to_know_id_meaning": "François Bulot",
+      "link": {
+        "2020": "https://github.com/BulotF/AdventOfCode"
+      },
+      "language": {
+        "2020": "XSLT"
       }
     }
   }

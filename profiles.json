@@ -53,6 +53,19 @@
       "language": {
         "2020": "Java"
       }
+    },
+    "269046": {
+       "just_to_know_id_meaning": "Michaël Genet",
+      "link": {
+        "2020": "https://github.com/mika44/advent-of-code-2020",
+        "2020": "https://github.com/mika44/advent-of-code-2019",
+        "2018": "https://github.com/mika44/advent-of-code-2018"
+      },
+      "language": {
+        "2020": "Java",
+        "2019": "Java",
+        "2018": "Java"
+      }
     }
   }
 }

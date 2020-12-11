@@ -46,7 +46,7 @@
       }
     },
     "23798": {
-       "just_to_know_id_meaning": "Clément Dufaure",
+      "just_to_know_id_meaning": "Clément Dufaure",
       "link": {
         "2020": "https://github.com/clement-dufaure/advent-of-code"
       },
@@ -55,7 +55,7 @@
       }
     },
     "269046": {
-       "just_to_know_id_meaning": "Michaël Genet",
+      "just_to_know_id_meaning": "Michaël Genet",
       "link": {
         "2020": "https://github.com/mika44/advent-of-code-2020",
         "2020": "https://github.com/mika44/advent-of-code-2019",
@@ -65,6 +65,15 @@
         "2020": "Java",
         "2019": "Java",
         "2018": "Java"
+      }
+    },
+    "698481": {
+      "just_to_know_id_meaning": "François Bulot",
+      "link": {
+        "2020": "https://github.com/BulotF/AdventOfCode"
+      },
+      "language": {
+        "2020": "XSLT"
       }
     }
   }

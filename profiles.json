@@ -78,6 +78,23 @@
       "language": {
         "2020": "XSLT"
       }
+    },
+    "323942": {
+      "just_to_know_id_meaning": "Fabien Guidetti",
+      "link": {
+        "2021": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2020": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2019": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2018": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2017": "https://github.com/fabienguidetti/advent-of-code-java"
+      },
+      "language": {
+        "2021": "Java",
+        "2020": "Java",
+        "2019": "Java",
+        "2018": "Java",
+        "2017": "Java"
+      }
     }
   }
 }

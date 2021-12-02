@@ -15,10 +15,12 @@
     "383855": {
       "just_to_know_id_meaning": "Yves-Marie Le Gueut",
       "link": {
-        "2020": "https://github.com/YMLG/advent-of-code"
+        "2020": "https://github.com/YMLG/advent-of-code",
+        "2021": "https://github.com/YMLG/advent-of-code"
       },
       "language": {
-        "2020": "Java"
+        "2020": "Java",        
+        "2021": "Java"
       }
     },
     "691513": {
@@ -79,14 +81,33 @@
         "2020": "XSLT"
       }
     },
+
+    "323942": {
+      "just_to_know_id_meaning": "Fabien Guidetti",
+      "link": {
+        "2021": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2020": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2019": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2018": "https://github.com/fabienguidetti/advent-of-code-java",
+        "2017": "https://github.com/fabienguidetti/advent-of-code-java"
+      },
+      "language": {
+        "2021": "Java",
+        "2020": "Java",
+        "2019": "Java",
+        "2018": "Java",
+        "2017": "Java"
+      }
+    },
+    
     "978698": {
       "just_to_know_id_meaning": "Nicolas Sénave",
       "link": {
-        "2020": "https://github.com/nsenave/advent-of-code-2020"
+        "2020": "https://github.com/nsenave/Advent-of-code",
+        "2021": "https://github.com/nsenave/Advent-of-code"
       },
       "language": {
-        "2020": "Python"
-      }
-    }
+        "2020": "Python",
+        "2021": "Python"
   }
 }

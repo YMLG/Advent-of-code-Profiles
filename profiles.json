@@ -3,9 +3,11 @@
     "276726": {
       "just_to_know_id_meaning": "Nicolas Laval",
       "link": {
+        "2021": "https://github.com/NicoLaval/Advent-of-code-2021",
         "2020": "https://github.com/NicoLaval/Advent-of-code-2020"
       },
       "language": {
+        "2021": "JavaScript",
         "2020": "JavaScript",
         "2019": "JavaScript",
         "2018": "JavaScript",
@@ -26,13 +28,13 @@
     "691513": {
       "just_to_know_id_meaning": "Olivier Pucher",
       "link": {
-        "2019": "https://github.com/Evargalo/AdventOfCode2019"
-        "2020": "https://github.com/Evargalo/AdventOfCode2020"
+        "2019": "https://github.com/Evargalo/AdventOfCode2019",
+        "2020": "https://github.com/Evargalo/AdventOfCode2020",
         "2020": "https://github.com/Evargalo/AdventOfCode2021"
       },
       "language": {
-        "2019": "R"
-        "2020": "R"
+        "2019": "R",
+        "2020": "R",
         "2021": "R"
       }
     },

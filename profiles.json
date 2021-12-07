@@ -130,6 +130,16 @@
       }
     },
     
+    "1045784":{
+      "just_to_know_id_meaning": "Fabrice Bibonne",
+      "link": {
+        "2021": "https://github.com/FBibonne/Advent-of-code-2021"
+      },
+      "language": {
+        "2021": "javaScript"
+      }
+    },
+    
     "742479": {
       "just_to_know_id_meaning": "Nathalie Dubreu",
       "link": {

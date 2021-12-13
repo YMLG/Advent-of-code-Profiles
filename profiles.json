@@ -21,7 +21,7 @@
         "2021": "https://github.com/YMLG/advent-of-code"
       },
       "language": {
-        "2020": "Java",        
+        "2020": "Java",
         "2021": "Java"
       }
     },
@@ -87,7 +87,6 @@
         "2020": "XSLT"
       }
     },
-
     "323942": {
       "just_to_know_id_meaning": "Fabien Guidetti",
       "link": {
@@ -105,7 +104,6 @@
         "2017": "Java"
       }
     },
-    
     "978698": {
       "just_to_know_id_meaning": "Nicolas Sénave",
       "link": {
@@ -117,7 +115,6 @@
         "2021": "Python"
       }
     },
-    
     "1110830": {
       "just_to_know_id_meaning": "Tanguy Barthélemy",
       "link": {
@@ -129,8 +126,7 @@
         "2021": "R"
       }
     },
-    
-    "1045784":{
+    "1045784": {
       "just_to_know_id_meaning": "Fabrice Bibonne",
       "link": {
         "2021": "https://github.com/FBibonne/Advent-of-code-2021"
@@ -139,7 +135,6 @@
         "2021": "JavaScript"
       }
     },
-    
     "742479": {
       "just_to_know_id_meaning": "Nathalie Dubreu",
       "link": {
@@ -147,6 +142,17 @@
       },
       "language": {
         "2021": "JUnit"
+      },
+      "729274": {
+        "just_to_know_id_meaning": "Loïc Laporte",
+        "link": {
+          "2021": "https://github.com/llaporte39"
+        },
+        "language": {
+          "2019": "SAS",
+          "2020": "JAVA",
+          "2021": "JAVA"
+        }
       }
     }
   }

@@ -167,6 +167,15 @@
           "2018": "Python",
           "2022": "Python"
         }
+      },
+      "2298141": {
+        "just_to_know_id_meaning": "Rémi Delcourt",
+        "link": {          
+          "2022": "https://github.com/RemiDelcourt/adventofcode_2022"
+        },
+        "language": {          
+          "2022": "Dart"
+        }
       }
     }
   }

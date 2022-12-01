@@ -155,6 +155,17 @@
           "2020": "JAVA",
           "2021": "JAVA"
         }
+      },
+      "367916": {
+        "just_to_know_id_meaning": "Maxence Lagalle",
+        "link": {
+          "2018": "https://github.com/maxence-lagalle/advent-of-code-2018",
+          "2022": "https://github.com/maxence-lagalle/advent-of-code-2022"
+        },
+        "language": {
+          "2018": "Python",
+          "2022": "Python"
+        }
       }
     }
   }

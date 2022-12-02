@@ -154,38 +154,39 @@
       },
       "language": {
         "2021": "JUnit"
+      }
+    },
+    "729274": {
+      "just_to_know_id_meaning": "Loïc Laporte",
+      "link": {
+        "2021": "https://github.com/llaporte39"
       },
-      "729274": {
-        "just_to_know_id_meaning": "Loïc Laporte",
-        "link": {
-          "2021": "https://github.com/llaporte39"
-        },
-        "language": {
-          "2019": "SAS",
-          "2020": "JAVA",
-          "2021": "JAVA"
-        }
+      "language": {
+        "2019": "SAS",
+        "2020": "JAVA",
+        "2021": "JAVA"
+      }
+    },
+    "367916": {
+      "just_to_know_id_meaning": "Maxence Lagalle",
+      "link": {
+        "2018": "https://github.com/maxence-lagalle/advent-of-code-2018",
+        "2022": "https://github.com/maxence-lagalle/advent-of-code-2022"
       },
-      "367916": {
-        "just_to_know_id_meaning": "Maxence Lagalle",
-        "link": {
-          "2018": "https://github.com/maxence-lagalle/advent-of-code-2018",
-          "2022": "https://github.com/maxence-lagalle/advent-of-code-2022"
-        },
-        "language": {
-          "2018": "Python",
-          "2022": "Python"
-        }
+      "language": {
+        "2018": "Python",
+        "2022": "Python"
+      }
+    },
+    "2298141": {
+      "just_to_know_id_meaning": "Rémi Delcourt",
+      "link": {          
+        "2022": "https://github.com/RemiDelcourt/adventofcode_2022"
       },
-      "2298141": {
-        "just_to_know_id_meaning": "Rémi Delcourt",
-        "link": {          
-          "2022": "https://github.com/RemiDelcourt/adventofcode_2022"
-        },
-        "language": {          
-          "2022": "Dart"
-        }
+      "language": {          
+        "2022": "Dart"
       }
     }
   }
 }
+

@@ -11,7 +11,7 @@
         {
           "id": "participer-2",
           "question": "Comment partager ?",
-          "answer": "Le lien vers votre dépôt de code et le langage que vous avez choisi peuvent-être déclarés via l'alimentation d'un fichier de configuration : <a href=\"https://raw.githubusercontent.com/NicoLaval/Advent-of-code-Profiles/master/profiles.json\">ici</a>.<br />\n Vous pouvez-donc ajouter vos informations (votre identifiant est disponible sur votre compte advent of code, rubrique \"settings\") par une Pull Request."
+          "answer": "Le lien vers votre dépôt de code et le langage que vous avez choisi peuvent-être déclarés via l'alimentation d'un fichier de configuration : <a href=\"https://raw.githubusercontent.com/YMLG/Advent-of-code-Profiles/master/profiles.json\">ici</a>.<br />\n Vous pouvez-donc ajouter vos informations (votre identifiant est disponible sur votre compte advent of code, rubrique \"settings\") par une Pull Request."
         }
       ]
     },

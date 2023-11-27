@@ -218,6 +218,15 @@
         "2022": "R"
       }
     },
+    "3250306": {
+      "just_to_know_id_meaning": "Antoine Palazzolo",
+      "link": {
+        "2023": "https://github.com/antoine-palazz/advent-of-code-2023",
+      },
+      "language": {
+        "2023": "Python",
+      }
+    },
     "993754": {
       "just_to_know_id_meaning": "Paul Géhin",
       "link": {

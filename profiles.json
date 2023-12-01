@@ -188,10 +188,12 @@
     "2298141": {
       "just_to_know_id_meaning": "Rémi Delcourt",
       "link": {          
-        "2022": "https://github.com/RemiDelcourt/adventofcode_2022"
+        "2022": "https://github.com/RemiDelcourt/adventofcode_2022",
+        "2023": "https://github.com/RemiDelcourt/adventofcode_2023"
       },
       "language": {          
-        "2022": "Dart"
+        "2022": "Dart",
+        "2023": "C++"        
       }
     },
     "804967": {

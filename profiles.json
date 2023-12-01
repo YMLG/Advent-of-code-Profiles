@@ -72,10 +72,26 @@
     "23798": {
       "just_to_know_id_meaning": "Clément Dufaure",
       "link": {
-        "2020": "https://github.com/clement-dufaure/advent-of-code"
+        "2015": "https://github.com/clement-dufaure/advent-of-code",
+        "2016": "https://github.com/clement-dufaure/advent-of-code",
+        "2017": "https://github.com/clement-dufaure/advent-of-code",
+        "2018": "https://github.com/clement-dufaure/advent-of-code",
+        "2019": "https://github.com/clement-dufaure/advent-of-code",
+        "2020": "https://github.com/clement-dufaure/advent-of-code",
+        "2021": "https://github.com/clement-dufaure/advent-of-code",
+        "2022": "https://github.com/clement-dufaure/advent-of-code",
+        "2023": "https://github.com/clement-dufaure/advent-of-code-py"
       },
       "language": {
-        "2020": "Java"
+        "2015": "Java",
+        "2016": "Java",
+        "2017": "Java",
+        "2018": "Java",
+        "2019": "Java",
+        "2020": "Java",
+        "2021": "Java",
+        "2022": "Java",
+        "2023": "Python"
       }
     },
     "269046": {

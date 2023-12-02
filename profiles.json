@@ -288,5 +288,14 @@
         "2023": "🦀 Rust"
       }
     }
+    "3306170": {
+      "just_to_know_id_meaning": "Marc BERGER",
+      "link": {
+        "2023": https://github.com/MarcRBerger/adventOfCode2023"
+      },
+      "language": {
+        "2023": "JAVA"
+      }
+    }
   }
 }

@@ -270,7 +270,8 @@
         "2019": "https://github.com/PaulGehin/advent-of-code",
         "2020": "https://github.com/PaulGehin/advent-of-code",
         "2021": "https://github.com/PaulGehin/advent-of-code",
-        "2022": "https://github.com/PaulGehin/advent-of-code"
+        "2022": "https://github.com/PaulGehin/advent-of-code",
+        "2023": "https://github.com/PaulGehin/advent-of-code-rust-2023#readme"
       },
       "language": {
         "2015": "Python",
@@ -279,7 +280,8 @@
         "2018": "Python",
         "2020": "Python",
         "2021": "Python",
-        "2022": "Python"
+        "2022": "Python",
+        "2023": "🦀 Rust"
       }
     }
   }

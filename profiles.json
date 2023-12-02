@@ -164,10 +164,12 @@
     "1045784": {
       "just_to_know_id_meaning": "Fabrice Bibonne",
       "link": {
-        "2021": "https://github.com/FBibonne/Advent-of-code-2021"
+        "2021": "https://github.com/FBibonne/Advent-of-code-2021",
+        "2023": "https://github.com/FBibonne/advent-of-code-2023"
       },
       "language": {
-        "2021": "JavaScript"
+        "2021": "JavaScript",
+        "2023": "♨Java♨"
       }
     },
     "742479": {

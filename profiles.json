@@ -19,7 +19,8 @@
       "link": {
         "2020": "https://github.com/YMLG/advent-of-code",
         "2021": "https://github.com/YMLG/advent-of-code",
-        "2022": "https://github.com/YMLG/advent-of-code-python"
+        "2022": "https://github.com/YMLG/advent-of-code-python",
+        "2023": "https://github.com/YMLG/advent-of-code"
       },
       "language": {
         "2020": "Java",
@@ -291,7 +292,7 @@
     "3306170": {
       "just_to_know_id_meaning": "Marc BERGER",
       "link": {
-        "2023": https://github.com/MarcRBerger/adventOfCode2023"
+        "2023": "https://github.com/MarcRBerger/adventOfCode2023"
       },
       "language": {
         "2023": "JAVA"
